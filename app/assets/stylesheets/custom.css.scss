@@ -45,8 +45,14 @@ $navbar-default-bg: #eaae4f;
 
 .btn-xlarge{
     font-size: 1.5em;
-    text-color: white;
+    color: white;
     background-color: #eaae4f ;
+}
+
+.article-meta-details{
+    border-top: 1px solid grey;
+    margin-top: 15px;
+    color: grey;
 }
 
 .article-actions{
@@ -64,6 +70,7 @@ $navbar-default-bg: #eaae4f;
     padding-top: 15px;
     padding-bottom: 15px;
 }
+
 .description{
     margin-top: 0px;
 }
